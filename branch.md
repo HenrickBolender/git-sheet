@@ -10,3 +10,5 @@
 - `git checkout <branch>` — переместить HEAD на ветку
 - `git checkout -m <branch>` — переместить HEAD, объединить текущие изменения с состоянием ветки
 - `git checkout -b <new_branch>` — создать новую ветку и перейти на нее
+- `git checkout -b <new_branch>` — создать новую ветку и перейти на нее
+- `git checkout -b <new_branch>` — создать новую ветку и перейти на нее
